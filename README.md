@@ -48,7 +48,7 @@ Após iniciar o servidor no passo anterior, execute o comando abaixo para inicia
 ```
 $ yarn start
 ```
-By [Italo Marcos](https://www.linkedin.com/in/italo-m-b181b1117/)
+Por [Italo Marcos](https://www.linkedin.com/in/italo-m-b181b1117/)
 
 ---
 ## Licença
