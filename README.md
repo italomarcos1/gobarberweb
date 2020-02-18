@@ -14,7 +14,7 @@
 - [Immer](https://github.com/immerjs/immer) - manipula o estado do Redux, sem quebrar a imutabilidade.
 - [History](https://github.com/ReactTraining/history) - usado para redirecionamento de rotas.
 - [Styled Components](https://github.com/styled-components/styled-components) - cria componentes estilizados permitindo encadear os estilos (estilizar componentes e estruturas internas do componente), e estilizar baseado em propriedades.
-- [Axios](https://github.com/axios/axios) - 
+- [Axios](https://github.com/axios/axios) - usado para fazer as requisições e consumir os dados do back-end.
 - [Unform](https://github.com/rocketseat/unform) - biblioteca de para gerar os formulários de login e cadastro. 
 - [Polished](https://github.com/styled-components/polished) - manipulação de cores nos botões das telas de login e cadastro. Usado em conjunto com o Styled Components.
 - [React Toastify](https://github.com/fkhadra/react-toastify) - **alerts** estilizados nas telas de login, cadastro, e atualização de dados. usados em casos de sucesso e erro.
