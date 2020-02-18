@@ -48,7 +48,7 @@ Finalmente, para iniciar a aplicação, rode:
 ```
 $ yarn start
 ```
-By [Italo Marcos](https://www.linkedin.com/in/italo-m-b181b1117/)
+Por [Italo Marcos](https://www.linkedin.com/in/italo-m-b181b1117/)
 
 ---
 ## Licença
