@@ -39,12 +39,12 @@ Instale as libs pra rodar a aplicação (a pasta *node_modules* será criada):
 ```
 $ yarn
 ```
-Siga as instruções para inicializar a API do [GoBarber]():
+Inicialize a API do [GoBarber](https://github.com/italomarcos1/GoBarber), as instruções estão na página:
 ```
 ...
 ```
 
-Finalmente, para iniciar a aplicação, rode:
+Após iniciar o servidor no passo anterior, execute o comando abaixo para iniciar a aplicação:
 ```
 $ yarn start
 ```
