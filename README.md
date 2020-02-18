@@ -10,6 +10,7 @@
 ### Libs e Frameworks utilizados:
 
 - [React](https://github.com/facebook/react)
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Redux](https://github.com/reduxjs/redux) - lib para gerenciamento de estado global entre os componentes. Também conta com Redux Saga para lidar com assincronismo e chamadas à API, e Redux Persist.para persistir os dados do usuário no LocalStorage (para mantê-lo logado na aplicação, etc).
 - [Immer](https://github.com/immerjs/immer) - manipula o estado do Redux, sem quebrar a imutabilidade.
 - [History](https://github.com/ReactTraining/history) - usado para redirecionamento de rotas.
